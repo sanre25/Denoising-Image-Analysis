@@ -9,4 +9,4 @@ All are important except - **test_images** , **analysis.m** , **analysis2.m**, *
 
    - **Obj_func** is the extra function file which show the value of objective function per iteration value as described in  paper.
 
-- All the setting in this methosdis same as **WNNM** Algorithm.
+- All the setting in this method is same as **WNNM** Algorithm.
